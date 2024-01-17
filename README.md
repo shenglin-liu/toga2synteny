@@ -12,11 +12,11 @@ Automate the plotting.
 The plot on the left is the default plotting mode. The one on the right rearranges the chromosomes (also flips chromosomes whenever necessary; see the grey ones) for a better visualization.
 
 ## Advantages
-No reliance on external software or any packages.
-Fast.
-Wrapped around TOGA results; but the core functions have more generic appliances.
-Figures have small file sizes.
+* No reliance on external software or any packages.
+* Fast (seconds).
+* Wrapped around TOGA results; but the core functions have more generic appliances.
+* Figures have small file sizes.
 
 ## Requirements/limitations
-Good assembly quality, preferably chromosome level (N50 at least 10Mb).
-Good annotation quality, not too many missing (only one2one orthologous genes existing in all species are used).
+* Good assembly quality, preferably chromosome level (N50 at least 10Mb).
+* Good annotation quality, not too many missing (only one2one orthologous genes existing in all species are used).
