@@ -1,4 +1,3 @@
-# Run on delta.
 # Generate a synteny plot for a list of species from TOGA results.
 
 #===========Usage.
